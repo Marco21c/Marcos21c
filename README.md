@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Marcos Condori
 
-💻 FullStack JavaScript Developer  
-🌎 Argentina | Open to remote work (USD)  
+💻 FullStack Developer  
+🌎 Argentina
 
-I build modern web applications using React, Node.js and MongoDB.  
-Currently finishing my Computer Science degree and working as an IT intern.
+I build modern web applications using React, Node.js, MongoDB, Java and Postgress.  
+Currently finishing my Programmer Analist degree and working as an IT intern.
 
 ---
 
@@ -15,47 +15,33 @@ Currently finishing my Computer Science degree and working as an IT intern.
 - Tailwind CSS
 - HTML / CSS
 - JavaScript / TypeScript
+-Angular
 
 ### Backend
-- Node.js
-- Express
-- Nest.js
+- Node.js / Express
 - REST APIs
 - JWT Auth
-
+- Java / Sprint Boot
+- Desing Patterns
+- 
 ### Database
 - MongoDB
 - MySQL
+- Postgress
 
 ### Tools
 - Git
 - Docker
 - Postman
 - Agile / Scrum
-
----
-
-## 📌 Featured Projects
-
-### 🔹 Task Manager App
-FullStack MERN app with authentication and dashboard  
-👉 https://tudemo.vercel.app  
-👉 https://github.com/tuusuario/task-manager
-
-### 🔹 Ecommerce Admin Panel
-Admin dashboard with products and orders management  
-👉 Demo | Repo
-
-### 🔹 API REST with Nest.js
-Backend API with JWT and MongoDB  
-👉 Repo
+- CMD Linux / Windows
 
 ---
 
 ## 📫 Contact
 Portfolio: https://condorimarcoselias.netlify.app  
 Email: marcosecondori@gmail.com  
-LinkedIn: (agregar si tenés)
+LinkedIn:www.linkedin.com/in/marcos-condori-23c
 
 ---
 
