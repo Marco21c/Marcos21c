@@ -46,8 +46,5 @@ LinkedIn:www.linkedin.com/in/marcos-condori-23c
 
 ---
 
-## 📊 GitHub Stats
-![stats](https://github-readme-stats.vercel.app/api?username=Marco21c&show_icons=true)
 
-![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marco21c&layout=compact)
 
