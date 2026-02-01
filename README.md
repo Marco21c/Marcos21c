@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Marcos Condori
 
 💻 FullStack Developer  
-🌎 Argentina
+
+🌎 Jujuy, Argentina
 
 I build modern web applications using React, Node.js, MongoDB, Java and Postgress.  
 Currently finishing my Programmer Analist degree and working as an IT intern.
